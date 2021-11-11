@@ -12,13 +12,17 @@
 
 Project Day 1
     - Determine requirements, data and technologies
+
 Project Day 2
     - Understand the data 
     - investigate ARIMA PYTHON, time series forecasting and multiple linear regression model
+
 Project Day 3
     - Understand the data 
     - investigate ARIMA PYTHON, time series forecasting and multiple linear regression model
+
 Project Day 4
     - Tableau or leaflet visualisation
+
 Project Day 5
     - Tableau or leaflet visualisation
